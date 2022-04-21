@@ -1,0 +1,28 @@
+<div class="blanco" id="cuadro1">
+        <table border="1" cellspacing="10" cellpadding="10">
+            <tr>
+                <th>Especificaciones Técnicas</th>
+                <th>Stock Permanente</th>
+                <th>Usos Alternativos</th>
+            </tr>
+            <tr>
+                <td>Malla colores: Negro o Blanco.
+                    Confeccionada en Monofilamento redondo en diámetro mayor o igual a 0.32 mm.
+                    Materia prima: PEAD virgen importado.
+                    Aditivos: anti UV y Masterbatch Negro.
+                    Tejido: Plano tipo giro ingles 25x26.
+                    Garantía: 7 años a degradación solar.</td>
+                <td>
+                    <ul>
+                        <type= circle>
+                            <li>0,80m.x 1,00m.</li>
+                            <li>1,10m.x 1,25m.</li>
+                            <li>1,60m.x 2,10m.</li>
+                            <li>2,50m.x 3,10m.</li>
+                            Otras medidas a pedido (consultar).
+                </TD>
+                <td>Uso agricola:corta viento, antipajaros,tela para secadero de frutas,corrales,cercos</td>
+            </tr>
+        </table>
+    </div>
+    <hr>
